@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Home Page Suite" duration-ms="13423" started-at="2024-02-03T10:19:37 WIB" finished-at="2024-02-03T10:19:51 WIB">
+    <groups>
+    </groups>
+    <test name="Test Case 1" duration-ms="13423" started-at="2024-02-03T10:19:37 WIB" finished-at="2024-02-03T10:19:51 WIB">
+      <class name="org.example.tests.HomePageTest">
+        <test-method status="PASS" signature="globalSetUp()[pri:0, instance:org.example.tests.HomePageTest@eec5a4a]" name="globalSetUp" is-config="true" duration-ms="4" started-at="2024-02-03T10:19:37 WIB" finished-at="2024-02-03T10:19:37 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetUp -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.example.tests.HomePageTest@eec5a4a]" name="setup" is-config="true" duration-ms="7999" started-at="2024-02-03T10:19:37 WIB" finished-at="2024-02-03T10:19:45 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:org.example.tests.HomePageTest@eec5a4a]" name="setUpPage" is-config="true" duration-ms="13" started-at="2024-02-03T10:19:45 WIB" finished-at="2024-02-03T10:19:45 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="searchEmailAddress()[pri:0, instance:org.example.tests.HomePageTest@eec5a4a]" name="searchEmailAddress" duration-ms="1062" started-at="2024-02-03T10:19:45 WIB" finished-at="2024-02-03T10:19:46 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchEmailAddress -->
+        <test-method status="PASS" signature="backPage()[pri:0, instance:org.example.tests.HomePageTest@eec5a4a]" name="backPage" is-config="true" duration-ms="3591" started-at="2024-02-03T10:19:46 WIB" finished-at="2024-02-03T10:19:50 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.example.tests.HomePageTest@eec5a4a]" name="tearDown" is-config="true" duration-ms="737" started-at="2024-02-03T10:19:50 WIB" finished-at="2024-02-03T10:19:51 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="globalTearDown()[pri:0, instance:org.example.tests.HomePageTest@eec5a4a]" name="globalTearDown" is-config="true" duration-ms="0" started-at="2024-02-03T10:19:51 WIB" finished-at="2024-02-03T10:19:51 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalTearDown -->
+      </class> <!-- org.example.tests.HomePageTest -->
+    </test> <!-- Test Case 1 -->
+  </suite> <!-- Home Page Suite -->
+</testng-results>
